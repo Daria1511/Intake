@@ -1,0 +1,21 @@
+﻿  Ball.cpp
+C:\Visual Studio Projects\TheTemplate\src\Ball.cpp(34,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Level.cpp
+C:\Visual Studio Projects\TheTemplate\inc\Brick.h(67,22): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio Projects\TheTemplate\inc\Brick.h(70,25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio Projects\TheTemplate\inc\Brick.h(73,22): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio Projects\TheTemplate\inc\Brick.h(76,25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio Projects\TheTemplate\src\Level.cpp(123,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Visual Studio Projects\TheTemplate\src\Level.cpp(124,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Menu.cpp
+C:\Visual Studio Projects\TheTemplate\inc\Brick.h(67,22): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio Projects\TheTemplate\inc\Brick.h(70,25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio Projects\TheTemplate\inc\Brick.h(73,22): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio Projects\TheTemplate\inc\Brick.h(76,25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  game.cpp
+C:\Visual Studio Projects\TheTemplate\inc\Brick.h(67,22): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio Projects\TheTemplate\inc\Brick.h(70,25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio Projects\TheTemplate\inc\Brick.h(73,22): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Visual Studio Projects\TheTemplate\inc\Brick.h(76,25): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  tmpl_2019-08.vcxproj -> C:\Visual Studio Projects\TheTemplate\tmpl_2019-08_x64.exe
